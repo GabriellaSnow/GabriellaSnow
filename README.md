@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabriellaSnow
-- 👀 I’m interested in learning to be a Web Developer (Full Stack)
+- 👀 I’m interested in becoming a Web Developer (Currently front-end but eventually full Stack)
 - 🌱 I’m currently learning HTML, CSS and Javascript!
 
 <!---
