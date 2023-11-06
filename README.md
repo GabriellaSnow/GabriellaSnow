@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabriellaSnow
-- 👀 I’m interested in becoming a Web Developer (Currently front-end but eventually full Stack)
+- 👀 I’m interested in a career in the tech industry! My interests are: Software Development/Engineering, Cybersecurity and Full-Stack Development.
 - 🌱 I’m currently learning HTML, CSS and Javascript!
 
 <!---
